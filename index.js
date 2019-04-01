@@ -18,3 +18,9 @@ function SayHiToGradma(string) {
   if (string.toLowerCase() === string)
   return "I cant hear you!"
 }
+
+ if (string.toUpperCase() === string) {
+   return "YES INDEED" }
+
+ 
+ }
