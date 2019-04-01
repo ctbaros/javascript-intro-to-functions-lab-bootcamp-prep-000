@@ -26,5 +26,3 @@ function SayHiToGradma(string) {
    return "I Love you too"
  }
  
-   return "Are you eating enough?"
-}
